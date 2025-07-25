@@ -1,0 +1,40 @@
+{
+  "title": "Abstract:",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Abstract:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Existing System:",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Proposed System:",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Software components:",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Advantages:",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Applications:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Conclusion:",
+      "page": 14
+    }
+  ]
+}
