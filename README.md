@@ -77,11 +77,10 @@ Each PDF is converted into a `.json` file in `/output/`, e.g.:
 
 ## Authors
 
-- Harshini Nadendla  
-- Spurthi Inturu  
-- Chakrish Vejendla
+- [Harshini Nadendla](https://github.com/Harshini2410)
+- [Spurthi Inturu](https://github.com/Spurthi7904)
+- [Chakrish Vejendla](https://github.com/Vejandlachakrish)
 
-GitHub: [https://github.com/Harshini2410](https://github.com/Harshini2410)
 
 ---
 
